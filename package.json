@@ -1,16 +1,20 @@
 {
-	"name": "gatsby-theme-scroll-reveal",
-	"version": "1.0.0",
-	"description": "gatsby scroll-reveal plugin",
-	"main": "index.js",
-	"license": "MIT",
-	"private": true,
-	"peerDependencies": {
-		"gatsby": "^2.24.47",
-		"react": "^16.13.1",
-		"react-dom": "^16.13.1"
-	},
-	"dependencies": {
-		"gatsby-plugin-scroll-reveal": "^0.0.7"
-	}
+    "name": "gatsby-theme-scroll-reveal",
+    "version": "1.0.0",
+    "description": "gatsby scroll-reveal plugin",
+    "main": "index.js",
+    "license": "MIT",
+    "private": false,
+    "author": "@jamiejohnsonkc",
+    "repository": {
+        "type": "git"
+    },
+    "peerDependencies": {
+        "gatsby": "^2.24.47",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    },
+    "dependencies": {
+        "gatsby-plugin-scroll-reveal": "^0.0.7"
+    }
 }
