@@ -1,7 +1,7 @@
 {
     "name": "gatsby-theme-scroll-reveal",
     "version": "1.0.0",
-    "description": "gatsby scroll-reveal plugin",
+    "description": "gatsby scroll-reveal plugin with predefined animations",
     "main": "index.js",
     "license": "MIT",
     "private": false,
